@@ -1,5 +1,9 @@
 {
   "devDependencies": {
     "typescript": "^5.1.3"
+  },
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "shelljs": "^0.8.5"
   }
 }
